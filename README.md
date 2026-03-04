@@ -1,7 +1,6 @@
-# Data Analysis Project with Python
-## Crime Data Analysis of India 2020
+## Crime Data Analysis of India 
 
-A Python-based data analysis project using **Jupyter Notebook** to explore the *NCRB Crime in India 2020* dataset. This project covers data cleaning, exploratory data analysis (EDA), and data visualization using **Pandas**, **Matplotlib**, and **Seaborn**.
+A Python-based data analysis project using **Jupyter Notebook** to explore the *NCRB Crime in India  dataset. This project covers data cleaning, exploratory data analysis (EDA), and data visualization using **Pandas**, **Matplotlib**, and **Seaborn**.
 
 ---
 
@@ -18,7 +17,7 @@ A Python-based data analysis project using **Jupyter Notebook** to explore the *
 
 # 📈 Project Overview
 
-This project analyzes crime trends across India using official NCRB data from 2020. The goal is to:
+This project analyzes crime trends across India using official NCRB data. The goal is to:
 - Clean and preprocess real-world data
 - Explore state-wise and crime-wise statistics
 - Visualize key insights using bar charts, heatmaps, and more
@@ -28,9 +27,9 @@ The Jupyter Notebook walks through the entire pipeline of data analysis from imp
 
 ---
 
-# 🗂 Dataset Description
+ 🗂 Dataset Description
 
-The dataset used is published by the **National Crime Records Bureau (NCRB), Ministry of Home Affairs, India**, and contains detailed records of reported crimes across Indian states and union territories for the year 2020.
+The dataset used is published by the **National Crime Records Bureau (NCRB), Ministry of Home Affairs, India**, and contains detailed records of reported crimes across Indian states and union territories.
 
 Key features:
 - Crime statistics by age
@@ -41,7 +40,7 @@ Key features:
 
 ---
 
-## ⚙️ Prerequisites
+⚙️ Prerequisites
 
 Before running this project, ensure you have the following installed:
 
